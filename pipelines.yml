@@ -2,7 +2,7 @@ resources:
   - name: Monica
     type: GitRepo
     configuration:
-      gitProvider: my_github
+      gitProvider: Vishwas
       path: davevishwas/Monica
       branches:
         include: master
