@@ -1,0 +1,13 @@
+{
+    "repositories": [{
+            "type": "composer",
+            "url": "https://vishwas.jfrog.io/artifactory/api/composer/new"
+        },
+        {
+            "packagist": false
+        }
+    ]
+	"config": {
+   		"secure-http" : false
+	}
+}
