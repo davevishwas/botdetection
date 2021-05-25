@@ -1,5 +1,5 @@
 resources:
-  - name: my_app_repo
+  - name: Vishwas
     type: GitRepo
     configuration:
       gitProvider: my_github
