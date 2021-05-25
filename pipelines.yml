@@ -1,0 +1,8 @@
+resources:
+  - name: my_app_repo
+    type: GitRepo
+    configuration:
+      gitProvider: my_github
+      path: davevishwas/Monica
+      branches:
+        include: master
